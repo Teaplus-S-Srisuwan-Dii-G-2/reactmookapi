@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "favor_animes",
+  "info": {
+    "name": "favor_anime"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "anime": {
+      "type": "json"
+    }
+  }
+}
