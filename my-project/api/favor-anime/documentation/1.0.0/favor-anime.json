@@ -536,7 +536,7 @@
             "type": "string"
           },
           "anime_id": {
-            "type": "string"
+            "type": "integer"
           },
           "published_at": {
             "type": "string",
@@ -547,7 +547,7 @@
       "NewFavor-anime": {
         "properties": {
           "anime_id": {
-            "type": "string"
+            "type": "integer"
           },
           "published_at": {
             "type": "string",

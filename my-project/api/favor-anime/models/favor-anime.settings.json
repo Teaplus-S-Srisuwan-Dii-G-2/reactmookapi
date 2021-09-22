@@ -13,7 +13,7 @@
   "pluginOptions": {},
   "attributes": {
     "anime_id": {
-      "type": "string"
+      "type": "biginteger"
     }
   }
 }
