@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/favor-animes",
+      "handler": "favor-animes.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/favor-animes/count",
+      "handler": "favor-animes.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/favor-animes/:id",
+      "handler": "favor-animes.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/favor-animes",
+      "handler": "favor-animes.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/favor-animes/:id",
+      "handler": "favor-animes.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/favor-animes/:id",
+      "handler": "favor-animes.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
