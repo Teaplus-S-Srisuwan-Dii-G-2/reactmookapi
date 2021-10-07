@@ -1,7 +1,6 @@
 # reactmookapi
 
-
-
+>use for like function
 
 
 
@@ -16,7 +15,15 @@
 
 ## swagger document
 
-https://cdn.rawgit.com/https://github.com/Teaplus-S-Srisuwan-Dii-G-2/reactmookapi/files/7305810/cwiki-documentation-generated.zip
+#### cwiki-documentation-generated.zip
 
-https://cdn.rawgit.com/dynamic-html-documentation-generated.zip
-)
+download =>
+
+https://drive.google.com/file/d/1XHhpqR31Fz0_pOEHKMCeUW0H09c06UcU/view?usp=sharing
+
+#### dynamic-html-documentation-generated.zip
+
+download =>
+
+https://drive.google.com/file/d/1D-z5bMJ3nK16c4h68ZXq9saYv6tpWrbb/view?usp=sharing
+
